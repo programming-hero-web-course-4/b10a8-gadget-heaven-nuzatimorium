@@ -1,8 +1,18 @@
-# React + Vite
+Live link: https://effervescent-parfait-753acc.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Requirement Document Link: https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf
 
-Currently, two official plugins are available:
+The project uses the following React concepts:
+- **JSX (JavaScript XML)**
+- **Components**
+- **State Management with `useState`**
+- **Effect Hook (`useEffect`)**
+- **Event Handling**
+- **Conditional Rendering**
+- **Routing with React Router**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here are five key features of the project:
+1. **Product Listing**
+2. **Shopping Cart**
+3. **Wish List**
+4. **Sort Products by Price**

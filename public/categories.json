@@ -1,0 +1,46 @@
+[
+  {
+    "category_id": "A",
+    "category_name": "All Products"
+  },
+  {
+    "category_id": "B",
+    "category_name": "Smart Home Device"
+  },
+  {
+    "category_id": "C",
+    "category_name": "Bluetooth Speaker"
+  },
+  {
+    "category_id": "D",
+    "category_name": "Fitness Tracker"
+  },
+  {
+    "category_id": "E",
+    "category_name": "Tablet"
+  },
+  {
+    "category_id": "F",
+    "category_name": "Smart TV"
+  },
+  {
+    "category_id": "G",
+    "category_name": "Power Bank"
+  },
+  {
+    "category_id": "H",
+    "category_name": "Wireless Earbuds"
+  },
+  {
+    "category_id": "I",
+    "category_name": "Robot Vacuum"
+  },
+  {
+    "category_id": "J",
+    "category_name": "Smart Keyboard"
+  },
+  {
+    "category_id": "K",
+    "category_name": "Webcam"
+  }
+]

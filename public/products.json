@@ -1,0 +1,113 @@
+[
+    {
+      "product_id": "1",
+      "product_title": "PixelEdge Smart Display",
+      "product_image": "https://i.ibb.co.com/Qrs7XF9/ROG-Swift-OLED-PG32-UCDP-KV.jpg",
+      "category": "Smart Home Device",
+      "price": 149.99,
+      "description": "A smart display with a built-in voice assistant for home automation.",
+      "Specification": ["Voice assistant", "Touch display", "Home automation hub"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "2",
+      "product_title": "SoundSphere X3",
+      "product_image": "https://i.ibb.co.com/Yy2r43f/d2c9c2da782a4de7bb5ab0d20123495b.webp",
+      "category": "Bluetooth Speaker",
+      "price": 79.99,
+      "description": "Portable speaker with immersive 360° sound and waterproof design.",
+      "Specification": ["360° sound", "Water-resistant", "20-hour battery life"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "3",
+      "product_title": "Chronofit Band Pro",
+      "product_image": "https://i.ibb.co.com/3c3fLNb/bg1.png",
+      "category": "Fitness Tracker",
+      "price": 119.99,
+      "description": "Advanced fitness tracker with heart rate monitoring and GPS.",
+      "Specification": ["Heart rate monitoring", "GPS tracking", "Sleep analysis"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "4",
+      "product_title": "LuminoPad Pro",
+      "product_image": "https://i.ibb.co.com/j30CkwS/Bloc-de-notas-de-tablero-de-escritura-LED-creativo-l-mpara-de-escritorio-Visual-3-D-regalo.webp",
+      "category": "Tablet",
+      "price": 499.99,
+      "description": "10.5-inch OLED tablet with stylus support for productivity and creativity.",
+      "Specification": ["10.5-inch OLED display", "Stylus support", "256GB storage"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "5",
+      "product_title": "AstroView 8K",
+      "product_image": "https://i.ibb.co.com/hVSWwVN/telescope-isolated-white-background-899442-3046.jpg",
+      "category": "Smart TV",
+      "price": 1299.99,
+      "description": "8K smart TV with stunning visuals and advanced voice control.",
+      "Specification": ["8K resolution", "Voice control", "120Hz refresh rate"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "6",
+      "product_title": "VoltCharge Duo",
+      "product_image": "https://i.ibb.co.com/SJvrW40/51-Hc-Bv-Zicw-L.jpg",
+      "category": "Power Bank",
+      "price": 49.99,
+      "description": "High-capacity power bank with fast charging and dual USB ports.",
+      "Specification": ["20,000mAh", "Dual USB ports", "Fast charging support"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "7",
+      "product_title": "AirTone Max",
+      "product_image": "https://i.ibb.co.com/J780KJB/pol-il-595-595.jpg",
+      "category": "Wireless Earbuds",
+      "price": 89.99,
+      "description": "Wireless earbuds with noise-cancellation and long battery life.",
+      "Specification": ["Noise-cancellation", "Bluetooth 5.3", "30-hour playtime"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "8",
+      "product_title": "RoboClean Plus",
+      "product_image": "https://i.ibb.co.com/vzY5X7J/images.jpg",
+      "category": "Robot Vacuum",
+      "price": 299.99,
+      "description": "Smart robot vacuum with app control and HEPA filtration.",
+      "Specification": ["App control", "Auto-docking", "HEPA filtration"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "9",
+      "product_title": "NanoKey Touch",
+      "product_image": "https://i.ibb.co.com/Hqv4B0r/images-1.jpg",
+      "category": "Smart Keyboard",
+      "price": 129.99,
+      "description": "Ergonomic smart keyboard with customizable lighting.",
+      "Specification": ["Wireless connection", "Customizable lighting", "Ergonomic design"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "10",
+      "product_title": "HyperCam 360",
+      "product_image": "https://i.ibb.co.com/ckcvmYs/altair-hypercam-294c-pro-colour-camera-fan-cooled-51-p.jpg",
+      "category": "Webcam",
+      "price": 149.99,
+      "description": "4K webcam with 360° rotation and AI background removal.",
+      "Specification": ["4K video", "360° rotation", "AI background removal"],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
+  
